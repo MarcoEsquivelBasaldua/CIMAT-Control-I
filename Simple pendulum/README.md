@@ -1,7 +1,10 @@
 # Simple Damped Pendulum
 
 Run *SimplePendulum.m* to play simulation.<br /><br />
-
+\begin{equation}
+x+1 = 2 \\
+y+2 = 3 
+\end{equation}
 Default parameters:<br />
 $g = 9.8$
 \\[l = 1\\]
