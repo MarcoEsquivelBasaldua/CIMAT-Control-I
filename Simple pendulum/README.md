@@ -2,11 +2,14 @@
 
 Run *SimplePendulum.m* to play simulation.
 
-Default parameters:
+Default parameters:\\
 $$
-g = 9.8\\
-l = 1\\
-m = 1\\
+g = 9.8
+$$$$
+l = 1
+$$$$
+m = 1
+$$$$
 b = 0.25
 $$
 
