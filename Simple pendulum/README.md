@@ -3,7 +3,7 @@
 Run *SimplePendulum.m* to play simulation.<br /><br />
 
 Default parameters:<br />
-\[g = 9.8\]
+$g = 9.8$
 \\[l = 1\\]
 \\[$<br />$\\]
 \\[m = 1\\]
