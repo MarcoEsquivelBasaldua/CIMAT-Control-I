@@ -1,7 +1,5 @@
 # Simple Damped Pendulum
 
-![imagen](image.png){ width=60%,height:30px }
-
 Run *SimplePendulum.m* to play simulation.<br /><br />
 
 Default parameters:<br />
