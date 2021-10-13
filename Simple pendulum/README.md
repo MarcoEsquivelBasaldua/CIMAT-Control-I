@@ -1,6 +1,6 @@
 # Simple Damped Pendulum
 
-![text](image.png){ width=60%,height:30px }
+![imagen](image.png){ width=60%,height:30px }
 
 Run *SimplePendulum.m* to play simulation.<br /><br />
 
