@@ -2,4 +2,4 @@
 Classical and mdern Control theory
 
 -Simple damped pendulum<br />
--PID tuner (incomplete)<br />
+-PID tuner <br />
